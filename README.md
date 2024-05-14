@@ -11,3 +11,4 @@ DFS Exploration: We explore all possible states using a stack, ensuring we don't
 ✨ Features
 Efficient Search: Leveraging DFS to explore potential solutions.
 Customizable: Input your own jug capacities and target amount. 📝
+
